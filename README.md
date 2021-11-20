@@ -1,5 +1,3 @@
-# google-trends-analysis
-
 # 🚀 Google Trends Analysis
 Google Trends based on keywords ["covid", 'health', 'travel', 'water', 'food']
 
