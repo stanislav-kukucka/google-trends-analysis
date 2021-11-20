@@ -13,3 +13,5 @@ pip3 install -r requirements.txt
 python3 google-trends-analysis.py
 ```
 
+![Drag Racing](newplot.png)
+
