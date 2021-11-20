@@ -7,11 +7,12 @@ Google Trends based on keywords ["covid", 'health', 'travel', 'water', 'food']
 cd google-trends-analysis
 pip3 install -r requirements.txt
 ```
-#### 2. Execute python code, enjoy graph in your browser on ip 127.0.0. and random port:
+#### 2. Execute python code, enjoy graph in your browser on IP 127.0.0. and random port:
 
 ```python
 python3 google-trends-analysis.py
 ```
+#### 3. Result of final plotted graph:
 
-![Drag Racing](newplot.png)
+![Plot result](newplot.png)
 
