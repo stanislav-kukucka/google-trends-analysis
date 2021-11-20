@@ -11,5 +11,5 @@ yourtrends.build_payload(keywords_list, cat=0, timeframe='today 12-m') # work wi
 data = yourtrends.interest_over_time()
 data = data.reset_index()
 
-fig = px.histrogram(data, x="date", y=keywords_list, title='Web search interest for certain keywords over time')
+fig = px.histogram(data, x="date", y=keywords_list, title='Web search interest for certain keywords over time')
 fig.show()
